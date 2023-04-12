@@ -1,0 +1,15 @@
+C:\Users\38985141880\Desktop\nome-de-5-pessoas-com-foreach\bin\Debug\net7.0\nome-de-5-pessoas-com-foreach.exe
+C:\Users\38985141880\Desktop\nome-de-5-pessoas-com-foreach\bin\Debug\net7.0\nome-de-5-pessoas-com-foreach.deps.json
+C:\Users\38985141880\Desktop\nome-de-5-pessoas-com-foreach\bin\Debug\net7.0\nome-de-5-pessoas-com-foreach.runtimeconfig.json
+C:\Users\38985141880\Desktop\nome-de-5-pessoas-com-foreach\bin\Debug\net7.0\nome-de-5-pessoas-com-foreach.dll
+C:\Users\38985141880\Desktop\nome-de-5-pessoas-com-foreach\bin\Debug\net7.0\nome-de-5-pessoas-com-foreach.pdb
+C:\Users\38985141880\Desktop\nome-de-5-pessoas-com-foreach\obj\Debug\net7.0\nome-de-5-pessoas-com-foreach.csproj.AssemblyReference.cache
+C:\Users\38985141880\Desktop\nome-de-5-pessoas-com-foreach\obj\Debug\net7.0\nome-de-5-pessoas-com-foreach.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38985141880\Desktop\nome-de-5-pessoas-com-foreach\obj\Debug\net7.0\nome-de-5-pessoas-com-foreach.AssemblyInfoInputs.cache
+C:\Users\38985141880\Desktop\nome-de-5-pessoas-com-foreach\obj\Debug\net7.0\nome-de-5-pessoas-com-foreach.AssemblyInfo.cs
+C:\Users\38985141880\Desktop\nome-de-5-pessoas-com-foreach\obj\Debug\net7.0\nome-de-5-pessoas-com-foreach.csproj.CoreCompileInputs.cache
+C:\Users\38985141880\Desktop\nome-de-5-pessoas-com-foreach\obj\Debug\net7.0\nome-de-5-pessoas-com-foreach.dll
+C:\Users\38985141880\Desktop\nome-de-5-pessoas-com-foreach\obj\Debug\net7.0\refint\nome-de-5-pessoas-com-foreach.dll
+C:\Users\38985141880\Desktop\nome-de-5-pessoas-com-foreach\obj\Debug\net7.0\nome-de-5-pessoas-com-foreach.pdb
+C:\Users\38985141880\Desktop\nome-de-5-pessoas-com-foreach\obj\Debug\net7.0\nome-de-5-pessoas-com-foreach.genruntimeconfig.cache
+C:\Users\38985141880\Desktop\nome-de-5-pessoas-com-foreach\obj\Debug\net7.0\ref\nome-de-5-pessoas-com-foreach.dll
